@@ -80,7 +80,8 @@ Agriculture, FoodTech & Rural Development and Develope the farmer
 - Collect feedback on usability, accuracy, and impact.
 - Refine models and interfaces based on real-world u
 
- <b>![alt text](<Screenshot 2025-09-28 150303.png>)</b></li></ul>
+ <b><img width="754" height="611" alt="Screenshot 2025-09-28 154344" src="https://github.com/user-attachments/assets/caa07b86-a22a-4609-bd1d-1d0c1291423a" />
+</b></li></ul>
 
 ## Feasibility and Viability
 <h3>FEASIBILITY AND VIABILITY</h3>
