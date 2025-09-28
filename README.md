@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:28.09.2025
-## Register Number:
-## Name:M
+## Register Number:25013589
+## Name:M.Harikrishna
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
